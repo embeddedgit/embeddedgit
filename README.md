@@ -1,29 +1,39 @@
-# Hey, I'm Subham Dash ⚡
+<div align="center">
 
-🎓 **Electronics & Communication Engineering**  
-📍 India  
-🛠️ I simulate before I solder.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Subham%20Dash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=20" width="100%" />
 
----
+</div>
 
-### 🔧 Tools & Skills
+<div align="center">
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Proteus](https://img.shields.io/badge/-Proteus-1C528A?style=flat-square&logo=proteus&logoColor=white)
-![Wokwi](https://img.shields.io/badge/-Wokwi-000000?style=flat-square&logo=wokwi&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-FF6600?style=flat&logo=wokwi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## About Me
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=dark)
+- **Name:** Subham Dash
+- **Age:** 19
 
 ---
 
-*Currently building: IR sensor circuits, breaking them virtually, then fixing them.*
+## Skills
+
+### Embedded Systems
+- Arduino
+- Wokwi
+
+### Programming Languages
+- C
+- Python
+
+### Tools & Platforms
+- GitHub
+
+---
