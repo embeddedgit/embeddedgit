@@ -8,6 +8,8 @@
 
 <div align="center">
 
+### SKILLS
+
 <a href="https://www.arduino.cc/" title="Arduino: open-source electronics platform for building embedded projects using microcontroller boards"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C: a general-purpose, low-level programming language widely used for system and embedded programming"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" /></a>
 <a href="https://www.python.org/" title="Python: a high-level, general-purpose programming language known for readability and versatility"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
