@@ -4,7 +4,6 @@
 
 </div>
 
-### SKILLS
 
 <div align="center">
 
